@@ -12,26 +12,26 @@
 // console.log(alert("E'tiboringiz uchun rahmat !!!"));
 
 
-var elFindAge = prompt("Yoshingizni kiriting !");
+// var elFindAge = prompt("Yoshingizni kiriting !");
 
-if (elFindAge >= 8 && elFindAge <= 15) {
-  console.log("hali yosh bolasiz");
-}
-else if (elFindAge > 15 && elFindAge <= 25) {
-  console.log("Voyaga yetmagansiz");
-}
-else if (elFindAge > 25 && elFindAge <= 40) {
-  console.log("Voyaga yetgansiz");
-}
-else if (elFindAge > 40 && elFindAge <= 60) {
-  console.log("Yoshi katta insonsiz");
-}
-else if (elFindAge > 60 && elFindAge < 80) {
-  console.log("Oqsoqolsiz amaki");
-}
-else if (elFindAge >=80 ) {
-  console.log("Umriz uzoq bo'lsin");
-}
-else {
-  console.log("Iltimos yoshingizni kiriting");
-}
+// if (elFindAge >= 8 && elFindAge <= 15) {
+//   console.log("hali yosh bolasiz");
+// }
+// else if (elFindAge > 15 && elFindAge <= 25) {
+//   console.log("Voyaga yetmagansiz");
+// }
+// else if (elFindAge > 25 && elFindAge <= 40) {
+//   console.log("Voyaga yetgansiz");
+// }
+// else if (elFindAge > 40 && elFindAge <= 60) {
+//   console.log("Yoshi katta insonsiz");
+// }
+// else if (elFindAge > 60 && elFindAge < 80) {
+//   console.log("Oqsoqolsiz amaki");
+// }
+// else if (elFindAge >=80 ) {
+//   console.log("Umriz uzoq bo'lsin");
+// }
+// else {
+//   console.log("Iltimos yoshingizni kiriting");
+// }
