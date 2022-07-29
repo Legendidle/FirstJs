@@ -14,21 +14,24 @@
 
 var elFindAge = prompt("Yoshingizni kiriting !");
 
-if (elFinfAge >= 8 && elFindAge <= 15) {
+if (elFindAge >= 8 && elFindAge <= 15) {
   console.log("hali yosh bolasiz");
 }
-else if (elFinfAge > 15 && elFindAge <= 25) {
+else if (elFindAge > 15 && elFindAge <= 25) {
   console.log("Voyaga yetmagansiz");
 }
-else if (elFinfAge > 25 && elFindAge <= 40) {
+else if (elFindAge > 25 && elFindAge <= 40) {
   console.log("Voyaga yetgansiz");
 }
-else if (elFinfAge > 40 && elFindAge <= 60) {
+else if (elFindAge > 40 && elFindAge <= 60) {
   console.log("Yoshi katta insonsiz");
 }
-else if (elFinfAge > 60 && elFindAge < 80) {
+else if (elFindAge > 60 && elFindAge < 80) {
   console.log("Oqsoqolsiz amaki");
 }
 else if (elFindAge >=80 ) {
   console.log("Umriz uzoq bo'lsin");
+}
+else {
+  console.log("Iltimos yoshingizni kiriting");
 }
